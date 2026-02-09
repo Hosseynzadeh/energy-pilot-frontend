@@ -1,0 +1,8 @@
+
+{
+  "name": "EnergyPilot",
+  "description": "An investor-grade energy optimisation and automation platform for UK SMEs, focusing on smart energy use and verified savings.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
